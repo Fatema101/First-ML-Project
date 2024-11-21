@@ -1,4 +1,4 @@
-The project involves using a Linear Regression model to predict outcomes based on real-world data.
+The project predicts how many medals each country is likely to win in the Olympics using a linear regression model
 
    The goal of this project was to:
 1. Explore data cleaning and preparation.
